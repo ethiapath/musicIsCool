@@ -5,28 +5,17 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
-
-![](header.png)
-
 ## Installation
 
 ```sh
 git clone 
 ```
 
-
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
 ## Development setup
 
-musicIsCool uses the spotify API python wrapper spotipy.
-To install spotipy can be installed using '''pip'''or '''easy_install'''.
-Then run main.py to start the program.
+musicIsCool uses the spotify python API wrapper spotipy.
+Spotipy can be installed using '''pip'''or '''easy_install'''.
+Then simply run main.py
 
 ```sh
 pip install spotipy
@@ -46,9 +35,7 @@ Testing + Brainstorming
 
 ethiapath – [@icftm](https://twitter.com/icftm)
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/ethiapath/musicIsCool](https://github.com/ethiapath/musicIsCool)
 
 ## Contributing
 
