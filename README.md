@@ -1,14 +1,10 @@
 # musicIsCool
 > A thing that shows you why music is cool
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 ## Installation
 
 ```sh
-git clone 
+git clone https://github.com/ethiapath/musicIsCool.git
 ```
 
 ## Development setup
@@ -50,7 +46,4 @@ ethiapath – [@icftm](https://twitter.com/icftm)
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/
-[NPM Version]:
-[Build Status]:
-[travis-url]:
-[Downloads Stats]:
+
